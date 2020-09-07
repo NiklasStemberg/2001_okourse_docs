@@ -1,0 +1,3 @@
+# Eigene Domain
+
+The beginning of an awesome article...
