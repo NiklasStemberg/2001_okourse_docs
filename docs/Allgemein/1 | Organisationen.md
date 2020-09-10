@@ -9,7 +9,7 @@ Zum erstellen eine Organisation musst du ledigleich den '+' Knopf in der Organis
 
 Nachdem du deine Zahlungsdaten angegeben hast und dich für einen Plan entschieden hast, kannst du deine Organisation verwenden. Die Einstellungen deiner Organisation findest du oben rechts in der Ecke.
 
-![Create Organization](../../assets/images/CourseSettings.png)
+![Course Settings](../../assets/images/CourseSettings.png)
 
 #### Organisationsmitglieder
 
@@ -18,19 +18,19 @@ Dir Rolle ‚Support‘ kann lediglich Information einsehen aber nur sehr begren
 Die Rolle ‚Editor‘ kann einer Großteil der Inhalte bearbeiten und einsehen. Lediglich die Zahlungsarten und das Abonemment können nicht durch diese Rolle angepasst werden.
 Die Rolle ‚Creator‘ besitzt nur der Ersteller einer Organisation. Nur dieser hat die Möglichkeit Zahlungsdaten zu ändern oder die Organisation gar zu löschen.
 
-![Create Organization](../../assets/images/OrgMemberMenu.png)
-![Create Organization](../../assets/images/OrgMember.png)
+![Organization Members Menu](../../assets/images/OrgMemberMenu.png)
+![Organization Members](../../assets/images/OrgMember.png)
 
 #### Instruktoren
 
 Neben den Organisationsmitgliedern kannst du auch die Instruktoren deiner Organisation verwalten. Instruktoren kannst du nachfolgend in den Kursen als Kursinstruktoren hinzufügen.
 
-![Create Organization](../../assets/images/OrgInstructorsMenu.png)
-![Create Organization](../../assets/images/OrgInstructors.png)
+![Organization Instructors Menu](../../assets/images/OrgInstructorsMenu.png)
+![Organization Instructors](../../assets/images/OrgInstructors.png)
 
 #### Email-Einstellungen
 
 In den Email-Einstellungen kannst du zusätzlich einstellen von welchem Absender die Emails für Mitglieder deiner Kurse versendet werden sollen. Wenn du den Absender „Test“ eingibst lautet die Absende-Adresse „test@okourse.com“. Als Kontakt-Email kannst du zusätzlich auswählen an welche Email sich deine Nutzer bei Prolemen melden können.
 
-![Create Organization](../../assets/images/OrgEmailMenu.png)
-![Create Organization](../../assets/images/Email.png)
+![Organization Email Menu](../../assets/images/OrgEmailMenu.png)
+![Organization Email](../../assets/images/Email.png)
