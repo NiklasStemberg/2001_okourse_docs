@@ -6,7 +6,7 @@ Innerhalb einer Organisation sind alle darin enthaltenen Kurse zu finden. Kurse 
 
 #### Kursinhalte
 
-Ist der Kurs einmal erstellt können nun die entsprechenden Inhalte hinzugefügt bzw. angepast werden. Über den ‚+‘ Knopf können hier neue Kapitel und darin sogenannte Seiten erstellt werden. Mehr zum Thema Seiten findest du im nächsten Abschnitt. Kapitel und Seiten können mittels Drag & Drop in ihrer Position innerhalb des Kurses verschoben werden. Dazu musst du an den Markierungen am Anfang der Elemente klicken und gedrückt halten.
+Ist der Kurs einmal erstellt können nun die entsprechenden Inhalte hinzugefügt bzw. angepast werden. Über den ‚+‘ Knopf können hier neue Kapitel und darin sogenannte Lektionen erstellt werden. Mehr zum Thema Lektionen findest du im nächsten Abschnitt. Kapitel und Lektionen können mittels Drag & Drop in ihrer Position innerhalb des Kurses verschoben werden. Dazu musst du an den Markierungen am Anfang der Elemente klicken und gedrückt halten.
 
 #### Startseite
 
