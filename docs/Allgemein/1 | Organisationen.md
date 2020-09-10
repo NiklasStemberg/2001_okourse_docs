@@ -33,3 +33,4 @@ Neben den Organisationsmitgliedern kannst du auch die Instruktoren deiner Organi
 In den Email-Einstellungen kannst du zusätzlich einstellen von welchem Absender die Emails für Mitglieder deiner Kurse versendet werden sollen. Wenn du den Absender „Test“ eingibst lautet die Absende-Adresse „test@okourse.com“. Als Kontakt-Email kannst du zusätzlich auswählen an welche Email sich deine Nutzer bei Prolemen melden können.
 
 ![Create Organization](../../assets/images/OrgEmailMenu.png)
+![Create Organization](../../assets/images/Email.png)
