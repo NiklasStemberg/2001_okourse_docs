@@ -1,7 +1,7 @@
 # Organisationen
 
 #### Erstellen
-Zum erstellen eine Organisation musst du ledigleich den '+' Knopf in der Organisationsübersicht deines OKourse Accounts klicken. Im Anschluss musst du ein paar Organisationsdetails wie den Namen und die Beschreibung hinzufügen. Zusätzlich kannst du schon hier ein Thumbnail für deine Organisation hochladen dadurch stellst du sicher, dass alle deine Organisation sofort wiedererkennen.
+Zum Erstellen einer Organisation musst du ledigleich den '+' Knopf in der Organisationsübersicht deines OKourse Accounts klicken. Im Anschluss musst du ein paar Organisationsdetails wie den Namen und die Beschreibung hinzufügen. Zusätzlich kannst du schon hier ein Thumbnail für deine Organisation hochladen dadurch stellst du sicher, dass alle deine Organisation sofort wiedererkennen.
 
 ![Create Organization](../../assets/images/CreateOrg.png)
 
@@ -13,7 +13,7 @@ Nachdem du deine Zahlungsdaten angegeben hast und dich für einen Plan entschied
 
 #### Organisationsmitglieder
 
-In dein Einstellungen kannst du der Organisation Mitglieder hinzufügen. Organisationsmitglieder können verschieden Rollen haben wodurch sie verschiedene Berechtigungen innerhalb einer Organisation erhalten. 
+In dein Einstellungen kannst du der Organisation Mitglieder hinzufügen. Organisationsmitglieder können verschiedene Rollen haben, jeder dieser Rollen gibt dem Nutzer entsprechende Berechtigungen in der Organisation.
 Dir Rolle ‚Support‘ kann lediglich Information einsehen aber nur sehr begrenzt bearbeiten. So kann der support keine Kursinhalte bearbeiten allerdings Kursmitglieder und deren Zugänge verwalten.
 Die Rolle ‚Editor‘ kann einer Großteil der Inhalte bearbeiten und einsehen. Lediglich die Zahlungsarten und das Abonemment können nicht durch diese Rolle angepasst werden.
 Die Rolle ‚Creator‘ besitzt nur der Ersteller einer Organisation. Nur dieser hat die Möglichkeit Zahlungsdaten zu ändern oder die Organisation gar zu löschen.
