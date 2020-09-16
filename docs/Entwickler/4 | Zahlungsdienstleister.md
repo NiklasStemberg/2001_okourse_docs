@@ -28,6 +28,6 @@ Jede Bestellung, welche durch die Digistore Integration durchgeführt wird, beko
 
 ### General
 
-Verwendest du beispielsweise In-App Purchases in iOS oder Android oder setzt deine eigene Zahlungslösung ein, kannst du auch mit der Integration "General" arbeiten. Um den Endpunkt für deine Requests 
+Verwendest du beispielsweise In-App Purchases in iOS oder Android oder setzt deine eigene Zahlungslösung ein, kannst du auch mit der Integration "General" arbeiten. Um den Endpunkt für deine Requests einsehen zu können, navigiere in die Organisationseinstellungen und klicke dort auf das Panel "Integrationen". Unter "General" ist die URL für die Organisation zu finden.
 
-Die Schnittstellen für diese sind in der API Dokumentation näher beschrieben.
+Die genaue Verwendung ist ist in der API Dokumentation näher beschrieben.
