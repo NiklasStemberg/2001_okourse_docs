@@ -2,8 +2,11 @@
 
 #### Anbindung
 
-Um mit der API Schnittstelle von OKourse kommunizieren zu können benötigst du einen API-Key und das dazugehörige Secret. Die Informationen kannst du dir im API-Menü in den Organisationseinstellungen generieren. Du kannst dir beliebig viele API-Keys erstellen. Achte allerdings stets darauf, dass niemand anderes Zugriff zu deinem Secret bekommt, da derjenige sonst Informationen und Nutzer in deiner Organisation bearbeiten kann.
+Um die API Schnittstellen von Okourse nutzen zu können, wird ein API-Key benötigt. Mehrere API-Keys können pro Person generiert werden. Wichtig ist, dass jeder API-Key an die Person gebunden ist, welche diesen erstellt hat und pro Organisation funktioniert. Der API-Key besitzt somit genauso viele Rechte in der Organisation, wie der Nutzer selbst auch. 
+Generiert werden kann der API Key in den Einstellungen der Organisation für den du diesen erstellen willst.
+Unter dem Entwicklerbereich und dem Menüpunkt API-Key ist diese Funktion zu finden. Nach der Generierung des API-Keys speichere diesen sicher ab.
 
 #### Authentifizierung
 
-Sobald du dir einen API-Key erstellt hast, musst du diesen in den header deines request einfügen. Das genaue Feld heißt 'Authentication' und der Wert ist "Bearer [YOUR_API_KEY]". Damit authentifizierst du deinen Request gegenüber OKourse.
+Um einen Request an das Backend von Okourse durchzuführen, muss in dem Header des Requests das Secret des API-Keys mitgesendet werden. Der Header heißt "x-auth-token".
+Damit wird der Request gegenüber Okourse authentifiziert.

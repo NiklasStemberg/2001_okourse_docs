@@ -1,5 +1,10 @@
 # Eigene Domain
 
-#### Einstellen
+#### Domain auf Okourse einrichten
 
-Standardmäßig läuft die Nutzeroberfläche deiner Kursmitglieder auf der subdomain "members.okourse.com". Wenn die Oberfläche für deine Kursmitglieder allerdings unter einer eigenen Domain erreichbar sein soll musst du diese in den Einstellunge hinzufügen. Gehe dafür auf das Domain Menü in den Organisations Einstellungen. Dort siehst du ob bereits eine eigene Domain aktiv ist. 
+Standardmäßig läuft die Nutzeroberfläche deiner Kursmitglieder auf der Subdomain "members.okourse.com". Wenn die Oberfläche für deine Kursmitglieder allerdings unter einer eigenen Domain erreichbar sein soll, kann diese in den Einstellungen hinzugefügt werden.
+Wichtig ist, dass du unter den DNS Einstellungen deiner Domain, einen CNAME oder Alias Eintrag bei deiner Domain erstellst, welche auf den Host api.okourse.com zeigt.
+Wenn dein DNS erfolgreich konfiguriert ist, kann die Domain in Okourse eingetragen werden.
+Habe etwas Geduld, denn nun kann es bis zu 24 Stunden dauern, bis die Domain für alle verfügbar ist.
+
+Der Domainstatus kann in Okourse in den Einstellungen deiner Organisation in dem Domain Menü eingesehen werden. Wenn der Status der Domain auf "aktiv" ist, können die Kursteilnehmer die Domain erfolgreich erreichen.
