@@ -2,7 +2,7 @@
 
 #### Designvorlage
 
-Du kannst das Aussehen der OKourse Oberfläche und der Mails nach deinem belieben anpassen. Primär- und Sekundärfarben sowie Logos können von dir individuell eingestellt werden. So haben Kursmitglieder nicht das Gefühl sich auf irgendeiner Kursplattform zu befinden sondern haben eine individuelle Nutzererfahrung.
+Du kannst das Aussehen der OKourse Oberfläche und der Mails nach deinem Belieben anpassen. Primär- und Sekundärfarben sowie Logos können von dir individuell eingestellt werden. So haben Kursmitglieder nicht das Gefühl sich auf irgendeiner Kursplattform zu befinden sondern haben eine individuelle Nutzererfahrung, welche von dir festgelegt wird.
 
 
 ![Design Menu](../../assets/images/OrgDesignMenu.png)
@@ -10,6 +10,6 @@ Du kannst das Aussehen der OKourse Oberfläche und der Mails nach deinem beliebe
 
 #### Anpassungen
 
-Zum Bearbeiten des Designs kannst du in den Organisations-Einstellungen zunächst eine Designvorlage auswählen. Diese Designvorlage kannst du dann mit den vorgegebenen Optionen nach deinem belieben anpassen. Anpassungen an der Designvorlage gelten stets für die gesamte Organisation.
+Zum Bearbeiten des Designs kannst du in den Organisations-Einstellungen zunächst eine Designvorlage auswählen. Diese Designvorlage kannst du dann mit den vorgegebenen Optionen nach deinem Belieben nach anpassen. Anpassungen an der Designvorlage gelten stets für die gesamte Organisation.
 
 ![Design](../../assets/images/Design.png)

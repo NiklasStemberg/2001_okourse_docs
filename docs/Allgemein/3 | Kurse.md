@@ -2,7 +2,7 @@
 
 #### Erstellen 
 
-Innerhalb einer Organisation sind alle darin enthaltenen Kurse zu finden. Kurse können durch klicken des ‚+‘ Knopfes und unter Angabe vom Kurstitel, Kursbeschreibung etc. hinzugefügt werden. Alle Informationen können nach der Erstellung noch bearbeitet werden.
+Innerhalb einer Organisation sind alle darin enthaltenen Kurse zu finden. Kurse können durch ein Klicken des ‚+‘ Knopfes und unter Angabe vom Kurstitel, Kursbeschreibung etc. hinzugefügt werden. Alle Informationen können nach der Erstellung noch bearbeitet werden.
 
 ![Create Course](../../assets/images/CreateCourse.png)
 
@@ -21,7 +21,7 @@ Die Startseite eines Kurses kann über das Menü ‚Startseite anpassen‘ bearb
 
 #### Drip Funktion
 
-Kapitel können mit einer sogenannten ‚Drip‘ Funktion ausgestattet werden. Das hießt, dass Kapitel innerhalb eines Kurses nach der Freischaltung dem Nutzer erst Schritt für Schritt freigegeben werden. Dazu kannst du angeben wie viele Tage nach Kursbeitritt der Nutzer jedes einzelne Kapitel freigegeben bekommen soll. Alternativ kannst du Kursmitgliedern im Mitglieder Menü auch ein Häckchen bei ‚Voller Zugriff‘ setzen. Dadurch erhält das Kursmitglied direkten Zugriff auf die vollständigen Kapitel des Kurses.
+Kapitel können mit einer sogenannten ‚Drip‘ Funktion ausgestattet werden. Das heißt, dass Kapitel innerhalb eines Kurses nach der Freischaltung dem Nutzer erst Schritt für Schritt freigegeben werden. Dazu kann angegeben werden wie viele Tage nach Kursbeitritt dem Nutzer jedes einzelne Kapitel freigegeben werden soll. Alternativ kann Kursmitgliedern im Mitglieder Menü auch ein Haken bei ‚Voller Zugriff‘ gesetzt werden. Dadurch erhält das Kursmitglied direkten Zugriff auf die vollständigen Kapitel des Kurses.
 
 ![Chapter Drip Menu](../../assets/images/Drip1.png)
 ![Select Drip](../../assets/images/Drip.png)
